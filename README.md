@@ -10,7 +10,7 @@ A collection of patches that I think would be useful to add, based on features, 
 
 ### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=shuhaibnc/SNC-Patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=shuhaibnc/morphe-patches
 
 ## 🩹 Patches list
 
