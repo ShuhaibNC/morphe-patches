@@ -4,11 +4,11 @@ patches {
     // TODO: Update this section with your project details.
     about {
         name = "Shuhaib's patches"
-        description = "Patches for apps I like"
+        description = "Efficiency justice for morphe patches"
         source = "https://github.com/ShuhaibNC/morphe-patches"
         author = "ShuhaibNC"
         contact = "t.me/shuhaibnc"
-        website = "na"
+        website = "https://shuhaibnc.github.io"
         license = "GPLv3"
     }
 }
