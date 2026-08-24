@@ -3,7 +3,7 @@ group = "app.template"
 patches {
     // TODO: Update this section with your project details.
     about {
-        name = "Shuhaib's patches"
+        name = "Shuhaib's Patches"
         description = "Efficiency justice for morphe patches"
         source = "https://github.com/ShuhaibNC/morphe-patches"
         author = "ShuhaibNC"
