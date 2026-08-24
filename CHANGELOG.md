@@ -1,3 +1,10 @@
+## [1.1.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.0.0...v1.1.0-dev.1) (2026-08-24)
+
+### ✨ New Features
+
+* candylinkvpn ([b721684](https://github.com/ShuhaibNC/morphe-patches/commit/b721684846c88f1453ef1a1d07f2c755f2d3773b))
+* manglishkeyboard ([3fb1744](https://github.com/ShuhaibNC/morphe-patches/commit/3fb1744dac89b0ee4a323204dbec8ae0f5bae583))
+
 ## 1.0.0 (2026-08-24)
 
 ### ✨ New Features
