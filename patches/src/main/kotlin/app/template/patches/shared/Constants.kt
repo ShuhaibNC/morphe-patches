@@ -74,4 +74,24 @@ object Constants {
             )
         )
     )
+
+    val STICKER_MAKER_COMPATIBILITY = Compatibility(
+        name = "Sticker Maker",
+        packageName = "com.marsvard.stickermakerforwhatsapp",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x4CAF50, // A nice green color
+        targets = listOf(
+            AppTarget(
+                version = null,
+                isExperimental = true
+            ),
+            AppTarget(
+                version = "1.0.5-3",
+                versionCodes = mapOf(
+                    SupportedAbi.ARM64_V8A to 1000503,
+                    SupportedAbi.ARMEABI_V7A to 1000503
+                )
+            )
+        )
+    )
 }
