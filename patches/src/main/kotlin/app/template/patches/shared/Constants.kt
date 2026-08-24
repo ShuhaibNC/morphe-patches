@@ -83,14 +83,43 @@ object Constants {
         targets = listOf(
             AppTarget(
                 version = null,
-                isExperimental = true
             ),
             AppTarget(
-                version = "1.0.5-3",
+                version = "1.0.10-5",
                 versionCodes = mapOf(
-                    SupportedAbi.ARM64_V8A to 1000503,
-                    SupportedAbi.ARMEABI_V7A to 1000503
+                    SupportedAbi.ARM64_V8A to 1001005,
+                    SupportedAbi.ARMEABI_V7A to 1001005
                 )
+            )
+        )
+    )
+
+    val MALAYALAM_KEYBOARD_COMPATIBILITY = Compatibility(
+        name = "Manglish Keyboard",
+        packageName = "com.clusterdev.malayalamkeyboard",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x4CAF50,
+        targets = listOf(
+            AppTarget(
+                version = null,
+            ),
+            AppTarget(
+                version = "10.1.0",
+            )
+        )
+    )
+
+    val CANDYLINK_VPN_COMPATIBILITY = Compatibility(
+        name = "CandyLink VPN",
+        packageName = "com.candylink.openvpn",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x4CAF50,
+        targets = listOf(
+            AppTarget(
+                version = null,
+            ),
+            AppTarget(
+                version = "4.0.2",
             )
         )
     )
