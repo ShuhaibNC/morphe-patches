@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "patches": [
     {
       "name": "APK Signer Unlock Pro",
@@ -126,6 +126,35 @@
               "versionCodes": {
                 "ARM64_V8A": 20202,
                 "ARMEABI_V7A": 20202
+              },
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Mvideo VIP",
+      "description": "All VIP features are unlocked.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "music.videomaker.slideshow",
+          "name": "Mvideo",
+          "description": null,
+          "apkFileType": "APK",
+          "appIconColor": "#7DFD91",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "1.0.11515",
+              "versionCodes": {
+                "ARM64_V8A": 11515,
+                "ARMEABI_V7A": 11515
               },
               "isExperimental": false,
               "minSdk": null,
