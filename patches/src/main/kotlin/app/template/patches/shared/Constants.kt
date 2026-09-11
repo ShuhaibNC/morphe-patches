@@ -177,4 +177,19 @@ object Constants {
             )
         )
     )
+    val MVIDEO_COMPATIBILITY = Compatibility(
+        name = "Mvideo",
+        packageName = "music.videomaker.slideshow",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x7DFD91,
+        targets = listOf(
+            AppTarget(
+                version = "1.0.11515",
+                versionCodes = mapOf(
+                    SupportedAbi.ARM64_V8A to 11515,
+                    SupportedAbi.ARMEABI_V7A to 11515
+                )
+            )
+        )
+    )
 }
