@@ -1,3 +1,9 @@
+## [1.5.0](https://github.com/ShuhaibNC/morphe-patches/compare/v1.4.0...v1.5.0) (2026-09-11)
+
+### ✨ New Features
+
+* mvideo ([5737f88](https://github.com/ShuhaibNC/morphe-patches/commit/5737f882c29f44333788c879d0c4b22277c8c426))
+
 ## [1.5.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.4.0...v1.5.0-dev.1) (2026-09-11)
 
 ### ✨ New Features
