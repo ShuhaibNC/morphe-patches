@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.5.0",
+  "version": "1.6.0-dev.1",
   "patches": [
     {
       "name": "APK Signer Unlock Pro",
@@ -98,6 +98,35 @@
             {
               "version": "4.0.2",
               "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Beat.ly VIP",
+      "description": "All VIP features are unlocked.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "vinkle.video.editor",
+          "name": "Beat.ly",
+          "description": null,
+          "apkFileType": "APK",
+          "appIconColor": "#0B0217",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "2.46.10897",
+              "versionCodes": {
+                "ARM64_V8A": 10897,
+                "ARMEABI_V7A": 10897
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -293,6 +322,35 @@
               "versionCodes": {
                 "ARM64_V8A": 80527,
                 "ARMEABI_V7A": 80527
+              },
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Reverso Context Premium",
+      "description": "All Premium features are unlocked.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.softissimo.reverso.context",
+          "name": "Reverso Context",
+          "description": null,
+          "apkFileType": "APK",
+          "appIconColor": "#F8FBFF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "16.1.0",
+              "versionCodes": {
+                "ARM64_V8A": 12000096,
+                "ARMEABI_V7A": 12000096
               },
               "isExperimental": false,
               "minSdk": null,
