@@ -1,8 +1,8 @@
-# 👋🧩 SNC Patches - Shuhaib's Morphe Patches
+# 🐈‍⬛ Shuhaib's Patches
 
-Efficiency justice for morphe patches.
+- Patches for apps I like.
 
-## ❓ About
+## About
 
 A collection of patches that I think would be useful to add, based on features, improvements, and customizations that could make the overall experience better.
 
