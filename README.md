@@ -4,11 +4,9 @@
 
 ## Add Patch to Morphe Manager
 
-Click here to add these patches to Morphe: 
+Click here to add these patches to Morphe:<br><br>
 <a href="https://morphe.software/add-source?github=ShuhaibNC/morphe-patches">
-
-<img src="button.svg" alt="Add Patch Button" width="100">
-</a>
+<img src="button.svg" alt="Add Patch Button" width="120"/></a>
 
 ## Request Patches
 
