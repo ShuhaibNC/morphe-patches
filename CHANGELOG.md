@@ -1,3 +1,9 @@
+## [1.9.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.8.0...v1.9.0-dev.1) (2026-09-21)
+
+### ✨ New Features
+
+* universal patches ([46ff5f4](https://github.com/ShuhaibNC/morphe-patches/commit/46ff5f4f65e66d319bfc69ac5ae427beda1d3786))
+
 ## [1.8.0](https://github.com/ShuhaibNC/morphe-patches/compare/v1.7.0...v1.8.0) (2026-09-20)
 
 ### ✨ New Features
