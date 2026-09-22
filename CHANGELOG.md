@@ -1,3 +1,9 @@
+## [1.9.0-dev.3](https://github.com/ShuhaibNC/morphe-patches/compare/v1.9.0-dev.2...v1.9.0-dev.3) (2026-09-22)
+
+### 🐛 Bug Fixes
+
+* removed material uni patch ([945efca](https://github.com/ShuhaibNC/morphe-patches/commit/945efca0a2fad3fce9a0b3716d6ee8c912ca4835))
+
 ## [1.9.0-dev.2](https://github.com/ShuhaibNC/morphe-patches/compare/v1.9.0-dev.1...v1.9.0-dev.2) (2026-09-22)
 
 ### ✨ New Features
