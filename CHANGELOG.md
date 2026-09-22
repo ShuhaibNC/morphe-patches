@@ -1,3 +1,9 @@
+## [1.9.0-dev.2](https://github.com/ShuhaibNC/morphe-patches/compare/v1.9.0-dev.1...v1.9.0-dev.2) (2026-09-22)
+
+### ✨ New Features
+
+* video to mp3 ([c91edc4](https://github.com/ShuhaibNC/morphe-patches/commit/c91edc4f18c1b26ed2a564fe7a1a861d4bc2a83e))
+
 ## [1.9.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.8.0...v1.9.0-dev.1) (2026-09-21)
 
 ### ✨ New Features

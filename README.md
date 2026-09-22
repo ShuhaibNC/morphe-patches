@@ -29,7 +29,7 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.9.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.9.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;19 patches total
+> **[v1.9.0-dev.2](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.9.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;20 patches total
 <details open>
 <summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -149,6 +149,21 @@ A collection of patches that I think would be useful to add, based on features, 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Premium](#unlock-premium) | Premium features are unlocked and ads are disabled. |  |
+
+</details>
+
+<details open>
+<summary>📦 Video to MP3&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 2.2.7.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium of Video to MP3](#unlock-premium-of-video-to-mp3) | Enables premium features and functionality in the Video to MP3 application. |  |
 
 </details>
 
