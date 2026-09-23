@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-09-23T16:19:07",
-  "description": "## [1.10.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.9.0...v1.10.0-dev.1) (2026-09-23)\n\n### ✨ New Features\n\n* gocut ([f95ae66](https://github.com/ShuhaibNC/morphe-patches/commit/f95ae667e680bb62ab86a499a3c63b0bb2fcc6fc))\n* ovicut ([fc5c58f](https://github.com/ShuhaibNC/morphe-patches/commit/fc5c58f262ef1dd6fd4cb0b019f5641b659b7ada))",
-  "download_url": "https://github.com/ShuhaibNC/morphe-patches/releases/download/v1.10.0-dev.1/patches-1.10.0-dev.1.mpp",
+  "created_at": "2026-09-23T16:34:12",
+  "description": "## [1.10.0](https://github.com/ShuhaibNC/morphe-patches/compare/v1.9.0...v1.10.0) (2026-09-23)\n\n### ✨ New Features\n\n* gocut ([f95ae66](https://github.com/ShuhaibNC/morphe-patches/commit/f95ae667e680bb62ab86a499a3c63b0bb2fcc6fc))\n* ovicut ([fc5c58f](https://github.com/ShuhaibNC/morphe-patches/commit/fc5c58f262ef1dd6fd4cb0b019f5641b659b7ada))",
+  "download_url": "https://github.com/ShuhaibNC/morphe-patches/releases/download/v1.10.0/patches-1.10.0.mpp",
   "signature_download_url": "",
-  "version": "1.10.0-dev.1"
+  "version": "1.10.0"
 }
