@@ -29,7 +29,7 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.9.0-dev.2](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.9.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;20 patches total
+> **[v1.9.0](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.9.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;19 patches total
 <details open>
 <summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -213,13 +213,12 @@ A collection of patches that I think would be useful to add, based on features, 
 </details>
 
 <details open>
-<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;6 patches</summary>
+<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;5 patches</summary>
 <br>
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Fake System Time](#fake-system-time) | Replaces System.currentTimeMillis() and System.nanoTime() with a fixed timestamp. |  |
-| [Force Material theme](#force-material-theme) | Removes every android:theme attribute from AndroidManifest.xml and applies the framework Material theme to the whole app. |  |
 | [Hide launcher icon](#hide-launcher-icon) | Hides the app's launcher icon. |  |
 | [Hide title/action bar](#hide-title-action-bar) | Removes the title/action bar from every declared style, in every res/values*/styles.xml resource file. |  |
 | [Remove all receivers](#remove-all-receivers) | Removes every <receiver> declaration from AndroidManifest.xml. |  |

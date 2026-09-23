@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.9.0-dev.2",
+  "version": "1.9.0",
   "patches": [
     {
       "name": "APK Signer Unlock Pro",
@@ -114,14 +114,6 @@
     {
       "name": "Fake System Time",
       "description": "Replaces System.currentTimeMillis() and System.nanoTime() with a fixed timestamp.",
-      "default": false,
-      "dependencies": [],
-      "compatiblePackages": null,
-      "options": []
-    },
-    {
-      "name": "Force Material theme",
-      "description": "Removes every android:theme attribute from AndroidManifest.xml and applies the framework Material theme to the whole app.",
       "default": false,
       "dependencies": [],
       "compatiblePackages": null,
