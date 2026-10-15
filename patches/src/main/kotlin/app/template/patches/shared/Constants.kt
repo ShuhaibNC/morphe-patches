@@ -290,4 +290,18 @@ object Constants {
             )
         )
     )
+
+    val YATSE_COMPATIBILITY = Compatibility(
+        name = "Yatse",
+        packageName = "org.leetzone.android.yatsewidgetfree",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x00D0C9,
+        targets = listOf(
+            AppTarget(
+                version = "12.0.0",
+                versionCode = 31108308
+            )
+        )
+    )
+
 }

@@ -1,4 +1,7 @@
 # 🐈‍⬛ Shuhaib's Patches
+[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com)
+[![License](https://img.shields.io/badge/License-GPL_v3-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
+[![GitHub All Releases](https://img.shields.io/github/downloads/shuhaibnc/morphe-patches/total)](https://github.com/mich111discordMightyMichs-Patches/releases)
 
 <b>Patches for apps I like.</b>
 
