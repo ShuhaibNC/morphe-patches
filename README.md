@@ -1,4 +1,7 @@
 # 🐈‍⬛ Shuhaib's Patches
+[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com)
+[![License](https://img.shields.io/badge/License-GPL_v3-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
+[![GitHub All Releases](https://img.shields.io/github/downloads/shuhaibnc/morphe-patches/total)](https://github.com/mich111discordMightyMichs-Patches/releases)
 
 <b>Patches for apps I like.</b>
 
@@ -29,7 +32,7 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.12.0](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.12.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;23 patches total
+> **[v1.13.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.13.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;24 patches total
 <details open>
 <summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -264,6 +267,21 @@ A collection of patches that I think would be useful to add, based on features, 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Vip Of Vidma](#unlock-vip-of-vidma) | Unlock Vip features and removes ads. |  |
+
+</details>
+
+<details open>
+<summary>📦 Yatse&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 12.0.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Yatse Pro](#unlock-yatse-pro) | Unlocks lifetime access to Yatse Pro Unlocker. |  |
 
 </details>
 
