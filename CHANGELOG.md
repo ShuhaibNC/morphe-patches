@@ -1,3 +1,15 @@
+## [1.13.0](https://github.com/ShuhaibNC/morphe-patches/compare/v1.12.0...v1.13.0) (2026-10-15)
+
+### ✨ New Features
+
+* yatse ([63881e9](https://github.com/ShuhaibNC/morphe-patches/commit/63881e9a6d6c942e9250077afe145bb70cf06c86))
+
+## [1.13.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.12.0...v1.13.0-dev.1) (2026-10-15)
+
+### ✨ New Features
+
+* yatse ([63881e9](https://github.com/ShuhaibNC/morphe-patches/commit/63881e9a6d6c942e9250077afe145bb70cf06c86))
+
 ## [1.12.0](https://github.com/ShuhaibNC/morphe-patches/compare/v1.11.0...v1.12.0) (2026-10-03)
 
 ### ✨ New Features
