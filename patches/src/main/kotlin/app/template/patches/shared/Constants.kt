@@ -304,4 +304,17 @@ object Constants {
         )
     )
 
+    val WORLD_MAP_COMPATIBILITY = Compatibility(
+        name = "World Map Quiz",
+        packageName = "com.qbis.guessthecountry",
+        apkFileType = ApkFileType.XAPK,
+        appIconColor = 0x59ADAE,
+        targets = listOf(
+            AppTarget(
+                version = "3.38",
+                versionCode = 169
+            )
+        )
+    )
+
 }
