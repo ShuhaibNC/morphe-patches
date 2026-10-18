@@ -1,3 +1,15 @@
+## [1.14.0](https://github.com/ShuhaibNC/morphe-patches/compare/v1.13.0...v1.14.0) (2026-10-17)
+
+### ✨ New Features
+
+* world map quiz ([0c2ce41](https://github.com/ShuhaibNC/morphe-patches/commit/0c2ce41f1854cb235bf4dce3199705c11f09e8a6))
+
+## [1.14.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.13.0...v1.14.0-dev.1) (2026-10-17)
+
+### ✨ New Features
+
+* world map quiz ([0c2ce41](https://github.com/ShuhaibNC/morphe-patches/commit/0c2ce41f1854cb235bf4dce3199705c11f09e8a6))
+
 ## [1.13.0](https://github.com/ShuhaibNC/morphe-patches/compare/v1.12.0...v1.13.0) (2026-10-15)
 
 ### ✨ New Features
