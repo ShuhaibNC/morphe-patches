@@ -1,3 +1,9 @@
+## [1.14.1-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.14.0...v1.14.1-dev.1) (2026-10-18)
+
+### 🐛 Bug Fixes
+
+* removed fb lite ([ca978c5](https://github.com/ShuhaibNC/morphe-patches/commit/ca978c561f572e3b0d73b6f8fddce5dcb9f6e06d))
+
 ## [1.14.0](https://github.com/ShuhaibNC/morphe-patches/compare/v1.13.0...v1.14.0) (2026-10-17)
 
 ### ✨ New Features
