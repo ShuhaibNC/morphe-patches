@@ -32,7 +32,7 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.14.0](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.14.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;25 patches total
+> **[v1.14.1-dev.2](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.14.1-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;26 patches total
 <details open>
 <summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -50,12 +50,19 @@ A collection of patches that I think would be useful to add, based on features, 
 </details>
 
 <details open>
-<summary>📦 Facebook Lite&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<summary>📦 World Map Quiz&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
+
+**🎯 Supported versions:**
+
+| 3.38 |
+| :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Disable In-Built Browser](#disable-in-built-browser) | Disables the in-built browser in Facebook Lite by removing its activities from the manifest. |  |
+| [Amoled Dark Theme](#amoled-dark-theme) | Adds amoled dark graphics to the app. |  |
+| [Remove Unwanted Promotional Icons and Ads](#remove-unwanted-promotional-icons-and-ads) | Removes bloated promotional icons and ads from the home screen. |  |
+| [Unlock World Map Quiz Premium Mode and Disable Ads](#unlock-world-map-quiz-premium-mode-and-disable-ads) | Unlocks Premium mode, map themes, rivers, mountains, deserts, oceanic trenches, oceanic currents, lakes, islands and winds |  |
 
 </details>
 
@@ -231,7 +238,7 @@ A collection of patches that I think would be useful to add, based on features, 
 
 **🎯 Supported versions:**
 
-| 16.1.0 |
+| 16.5.0 |
 | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
@@ -267,21 +274,6 @@ A collection of patches that I think would be useful to add, based on features, 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Vip Of Vidma](#unlock-vip-of-vidma) | Unlock Vip features and removes ads. |  |
-
-</details>
-
-<details open>
-<summary>📦 World Map Quiz&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 3.38 |
-| :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Unlock World Map Quiz Premium Mode and Disable Ads](#unlock-world-map-quiz-premium-mode-and-disable-ads) | Unlocks Premium mode, map themes, rivers, mountains, deserts, oceanic trenches, oceanic currents, lakes, islands and winds |  |
 
 </details>
 
