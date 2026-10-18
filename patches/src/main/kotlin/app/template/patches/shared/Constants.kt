@@ -195,8 +195,8 @@ object Constants {
         appIconColor = 0xF8FBFF,
         targets = listOf(
             AppTarget(
-                version = "16.1.0",
-                versionCode = 12000096
+                version = "16.5.0",
+                versionCode = 12000099
             )
         )
     )
@@ -262,18 +262,6 @@ object Constants {
             AppTarget(
                 version = "3.0.4",
                 versionCode = 311
-            )
-        )
-    )
-
-    val FACEBOOK_LITE_COMPATIBILITY = Compatibility(
-        name = "Facebook Lite",
-        packageName = "com.facebook.lite",
-        apkFileType = ApkFileType.APK,
-        appIconColor = 0x0866FF,
-        targets = listOf(
-            AppTarget(
-                version = null,
             )
         )
     )
