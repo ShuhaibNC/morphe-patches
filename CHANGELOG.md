@@ -1,3 +1,9 @@
+## [1.14.1-dev.2](https://github.com/ShuhaibNC/morphe-patches/compare/v1.14.1-dev.1...v1.14.1-dev.2) (2026-10-18)
+
+### 🐛 Bug Fixes
+
+* worldmap ([83c39ed](https://github.com/ShuhaibNC/morphe-patches/commit/83c39ed9af510254218c03ccb7710b1283808daf))
+
 ## [1.14.1-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.14.0...v1.14.1-dev.1) (2026-10-18)
 
 ### 🐛 Bug Fixes

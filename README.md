@@ -32,7 +32,7 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.14.1-dev.1](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.14.1-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;25 patches total
+> **[v1.14.1-dev.2](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.14.1-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;26 patches total
 <details open>
 <summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -50,7 +50,7 @@ A collection of patches that I think would be useful to add, based on features, 
 </details>
 
 <details open>
-<summary>📦 World Map Quiz&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<summary>📦 World Map Quiz&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -61,6 +61,7 @@ A collection of patches that I think would be useful to add, based on features, 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Amoled Dark Theme](#amoled-dark-theme) | Adds amoled dark graphics to the app. |  |
+| [Remove Unwanted Promotional Icons and Ads](#remove-unwanted-promotional-icons-and-ads) | Removes bloated promotional icons and ads from the home screen. |  |
 | [Unlock World Map Quiz Premium Mode and Disable Ads](#unlock-world-map-quiz-premium-mode-and-disable-ads) | Unlocks Premium mode, map themes, rivers, mountains, deserts, oceanic trenches, oceanic currents, lakes, islands and winds |  |
 
 </details>
