@@ -32,7 +32,7 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.15.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.15.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;26 patches total
+> **[v1.15.0-dev.2](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.15.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;27 patches total
 <details open>
 <summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -67,6 +67,22 @@ A collection of patches that I think would be useful to add, based on features, 
 </details>
 
 <details open>
+<summary>📦 MP3 Cutter and Ringtone Maker&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Amoled Theme](#amoled-theme) | Replaces the app background graphics. |  |
+| [Remove Ads](#remove-ads) | Removes AdActivities and the internet permission from the manifest and hides ad containers. |  |
+
+</details>
+
+<details open>
 <summary>📦 CandyLink VPN&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
@@ -79,21 +95,6 @@ A collection of patches that I think would be useful to add, based on features, 
 |----------|----------------|-----------|
 | [Disable Tracking](#disable-tracking) | Disable tracking statistics for CandyLink VPN . |  |
 | [Unlock Premium](#unlock-premium) | Premium features are unlocked and ads are disabled. |  |
-
-</details>
-
-<details open>
-<summary>📦 MP3 Cutter and Ringtone Maker&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 4.1 |
-| :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Remove Ads](#remove-ads) | Removes AdActivities from the manifest. |  |
 
 </details>
 

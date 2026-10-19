@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-10-19T10:30:52",
-  "description": "## [1.15.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.14.1...v1.15.0-dev.1) (2026-10-19)\n\n### ✨ New Features\n\n* mp3cutter ([9d940d8](https://github.com/ShuhaibNC/morphe-patches/commit/9d940d84c917747b7e9d4b999a9b576a399959e0))",
-  "download_url": "https://github.com/ShuhaibNC/morphe-patches/releases/download/v1.15.0-dev.1/patches-1.15.0-dev.1.mpp",
+  "created_at": "2026-10-19T15:29:56",
+  "description": "## [1.15.0-dev.2](https://github.com/ShuhaibNC/morphe-patches/compare/v1.15.0-dev.1...v1.15.0-dev.2) (2026-10-19)\n\n### 🐛 Bug Fixes\n\n* mp3cutter ([812c9da](https://github.com/ShuhaibNC/morphe-patches/commit/812c9da9c322cd7a1473146fcede8da4f9bb8473))",
+  "download_url": "https://github.com/ShuhaibNC/morphe-patches/releases/download/v1.15.0-dev.2/patches-1.15.0-dev.2.mpp",
   "signature_download_url": "",
-  "version": "1.15.0-dev.1"
+  "version": "1.15.0-dev.2"
 }
