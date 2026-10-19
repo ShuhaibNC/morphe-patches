@@ -32,7 +32,7 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.14.1](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.14.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;26 patches total
+> **[v1.15.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.15.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;26 patches total
 <details open>
 <summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -79,6 +79,21 @@ A collection of patches that I think would be useful to add, based on features, 
 |----------|----------------|-----------|
 | [Disable Tracking](#disable-tracking) | Disable tracking statistics for CandyLink VPN . |  |
 | [Unlock Premium](#unlock-premium) | Premium features are unlocked and ads are disabled. |  |
+
+</details>
+
+<details open>
+<summary>📦 MP3 Cutter and Ringtone Maker&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Remove Ads](#remove-ads) | Removes AdActivities from the manifest. |  |
 
 </details>
 
@@ -293,7 +308,7 @@ A collection of patches that I think would be useful to add, based on features, 
 </details>
 
 <details open>
-<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;5 patches</summary>
+<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
 <br>
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
@@ -302,7 +317,6 @@ A collection of patches that I think would be useful to add, based on features, 
 | [Hide launcher icon](#hide-launcher-icon) | Hides the app's launcher icon. |  |
 | [Hide title/action bar](#hide-title-action-bar) | Removes the title/action bar from every declared style, in every res/values*/styles.xml resource file. |  |
 | [Remove all receivers](#remove-all-receivers) | Removes every <receiver> declaration from AndroidManifest.xml. |  |
-| [Spoof Build.SERIAL](#spoof-build-serial) | Replaces every read of Build.SERIAL with the constant string "Serial", across every class in the app. |  |
 
 </details>
 
