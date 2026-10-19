@@ -305,4 +305,17 @@ object Constants {
         )
     )
 
+    val MP3CUTTER_COMPATIBILITY = Compatibility(
+        name = "MP3 Cutter and Ringtone Maker",
+        packageName = "com.atomic.apps.ringtone.cutter",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0xC02997,
+        targets = listOf(
+            AppTarget(
+                version = "4.1",
+                versionCode = 400001
+            )
+        )
+    )
+
 }
