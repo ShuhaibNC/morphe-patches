@@ -32,15 +32,15 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.15.0-dev.2](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.15.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;27 patches total
+> **[v1.15.0-dev.3](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.15.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;27 patches total
 <details open>
 <summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
 **🎯 Supported versions:**
 
-| 7.3.13 |
-| :---: |
+| 7.3.13 | 7.3.14 | 7.4.0 | 7.4.2 |
+| :---: | :---: | :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
@@ -88,8 +88,8 @@ A collection of patches that I think would be useful to add, based on features, 
 
 **🎯 Supported versions:**
 
-| 4.0.2 |
-| :---: |
+| 4.0.2 | 4.0.1 |
+| :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
@@ -101,11 +101,6 @@ A collection of patches that I think would be useful to add, based on features, 
 <details open>
 <summary>📦 FFmpeg Media Encoder&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
-
-**🎯 Supported versions:**
-
-| 6.1.3_1 |
-| :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
@@ -119,8 +114,8 @@ A collection of patches that I think would be useful to add, based on features, 
 
 **🎯 Supported versions:**
 
-| 2.46.10897 |
-| :---: |
+| 2.46.10897 | 2.46.10891 |
+| :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
@@ -149,8 +144,8 @@ A collection of patches that I think would be useful to add, based on features, 
 
 **🎯 Supported versions:**
 
-| 3.0.4 |
-| :---: |
+| 3.0.4 | 3.0.3 | 3.0.2 | 3.0.1 |
+| :---: | :---: | :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
@@ -239,8 +234,8 @@ A collection of patches that I think would be useful to add, based on features, 
 
 **🎯 Supported versions:**
 
-| 8.0.527 |
-| :---: |
+| 8.0.527 | 8.0.338 | 8.0.212 | 8.0.211 |
+| :---: | :---: | :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
