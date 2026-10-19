@@ -1,3 +1,9 @@
+## [1.15.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.14.1...v1.15.0-dev.1) (2026-10-19)
+
+### ✨ New Features
+
+* mp3cutter ([9d940d8](https://github.com/ShuhaibNC/morphe-patches/commit/9d940d84c917747b7e9d4b999a9b576a399959e0))
+
 ## [1.14.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.14.0...v1.14.1) (2026-10-18)
 
 ### 🐛 Bug Fixes
