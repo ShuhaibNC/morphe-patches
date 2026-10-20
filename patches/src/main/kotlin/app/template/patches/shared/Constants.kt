@@ -355,4 +355,17 @@ object Constants {
         )
     )
 
+    val WHEREISMYTRAIN_COMPATIBILITY = Compatibility(
+        name = "Where is my Train",
+        packageName = "com.whereismytrain.android",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x03A9F4,
+        targets = listOf(
+            AppTarget(
+                version = "7.1.5.974952539",
+                versionCode = 2024017
+            )
+        )
+    )
+
 }
