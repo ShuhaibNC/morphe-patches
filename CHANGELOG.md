@@ -1,3 +1,9 @@
+## [1.15.0-dev.3](https://github.com/ShuhaibNC/morphe-patches/compare/v1.15.0-dev.2...v1.15.0-dev.3) (2026-10-19)
+
+### 🐛 Bug Fixes
+
+* some working versions added ([26284bc](https://github.com/ShuhaibNC/morphe-patches/commit/26284bc7e056257dd08355c1a01a53656de2c949))
+
 ## [1.15.0-dev.2](https://github.com/ShuhaibNC/morphe-patches/compare/v1.15.0-dev.1...v1.15.0-dev.2) (2026-10-19)
 
 ### 🐛 Bug Fixes
