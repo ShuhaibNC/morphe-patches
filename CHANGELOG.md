@@ -1,3 +1,10 @@
+## [1.15.0-dev.4](https://github.com/ShuhaibNC/morphe-patches/compare/v1.15.0-dev.3...v1.15.0-dev.4) (2026-10-20)
+
+### ✨ New Features
+
+* amoled for wmt ([7c74913](https://github.com/ShuhaibNC/morphe-patches/commit/7c74913d59cfdf6153ad23354018dac02210deb0))
+* whereismytrain ([3a9ee0b](https://github.com/ShuhaibNC/morphe-patches/commit/3a9ee0bc4b17996a3d2b9e2856d1248e1e04c6fe))
+
 ## [1.15.0-dev.3](https://github.com/ShuhaibNC/morphe-patches/compare/v1.15.0-dev.2...v1.15.0-dev.3) (2026-10-19)
 
 ### 🐛 Bug Fixes
