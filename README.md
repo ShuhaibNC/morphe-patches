@@ -32,20 +32,36 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.14.1](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.14.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;26 patches total
+> **[v1.15.0-dev.4](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.15.0-dev.4)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;29 patches total
 <details open>
 <summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
 **🎯 Supported versions:**
 
-| 7.3.13 |
-| :---: |
+| 7.3.13 | 7.3.14 | 7.4.0 | 7.4.2 |
+| :---: | :---: | :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [APK Signer Unlock Pro](#apk-signer-unlock-pro) | Unlocks Pro and remove ads from APK Signer. |  |
 | [Disable Forground Services Warning](#disable-forground-services-warning) | Turns off annoying forground service warning at startup |  |
+
+</details>
+
+<details open>
+<summary>📦 Where is my Train&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 7.1.5.974952539 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Amoled Dark](#amoled-dark) | Changes selected night theme colors to pure black. |  |
+| [Change Accent Color](#change-accent-color) | Changes the accent color in the night theme. | • Accent Color |
 
 </details>
 
@@ -67,13 +83,29 @@ A collection of patches that I think would be useful to add, based on features, 
 </details>
 
 <details open>
+<summary>📦 MP3 Cutter and Ringtone Maker&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Amoled Theme](#amoled-theme) | Replaces the app background graphics. |  |
+| [Remove Ads](#remove-ads) | Removes AdActivities and the internet permission from the manifest and hides ad containers. |  |
+
+</details>
+
+<details open>
 <summary>📦 CandyLink VPN&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
 **🎯 Supported versions:**
 
-| 4.0.2 |
-| :---: |
+| 4.0.2 | 4.0.1 |
+| :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
@@ -85,11 +117,6 @@ A collection of patches that I think would be useful to add, based on features, 
 <details open>
 <summary>📦 FFmpeg Media Encoder&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
-
-**🎯 Supported versions:**
-
-| 6.1.3_1 |
-| :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
@@ -103,8 +130,8 @@ A collection of patches that I think would be useful to add, based on features, 
 
 **🎯 Supported versions:**
 
-| 2.46.10897 |
-| :---: |
+| 2.46.10897 | 2.46.10891 |
+| :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
@@ -133,8 +160,8 @@ A collection of patches that I think would be useful to add, based on features, 
 
 **🎯 Supported versions:**
 
-| 3.0.4 |
-| :---: |
+| 3.0.4 | 3.0.3 | 3.0.2 | 3.0.1 |
+| :---: | :---: | :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
@@ -223,8 +250,8 @@ A collection of patches that I think would be useful to add, based on features, 
 
 **🎯 Supported versions:**
 
-| 8.0.527 |
-| :---: |
+| 8.0.527 | 8.0.338 | 8.0.212 | 8.0.211 |
+| :---: | :---: | :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
@@ -293,7 +320,7 @@ A collection of patches that I think would be useful to add, based on features, 
 </details>
 
 <details open>
-<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;5 patches</summary>
+<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
 <br>
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
@@ -302,7 +329,6 @@ A collection of patches that I think would be useful to add, based on features, 
 | [Hide launcher icon](#hide-launcher-icon) | Hides the app's launcher icon. |  |
 | [Hide title/action bar](#hide-title-action-bar) | Removes the title/action bar from every declared style, in every res/values*/styles.xml resource file. |  |
 | [Remove all receivers](#remove-all-receivers) | Removes every <receiver> declaration from AndroidManifest.xml. |  |
-| [Spoof Build.SERIAL](#spoof-build-serial) | Replaces every read of Build.SERIAL with the constant string "Serial", across every class in the app. |  |
 
 </details>
 
