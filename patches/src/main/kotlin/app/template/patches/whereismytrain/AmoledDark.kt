@@ -7,7 +7,7 @@ import org.w3c.dom.Element
 
 @Suppress("unused")
 val amoledDarkPatch = resourcePatch(
-    name = "Amoled Dark",
+    name = "Amoled Dark Theme",
     description = "Changes selected night theme colors to pure black.",
     default = true
 ) {
