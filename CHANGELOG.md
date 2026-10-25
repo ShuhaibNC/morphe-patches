@@ -1,3 +1,13 @@
+## [1.15.0-dev.5](https://github.com/ShuhaibNC/morphe-patches/compare/v1.15.0-dev.4...v1.15.0-dev.5) (2026-10-25)
+
+### 🐛 Bug Fixes
+
+* where is my train accent color ([69bac98](https://github.com/ShuhaibNC/morphe-patches/commit/69bac987069b1269386051fc2a28181b4224f283))
+
+### ✨ New Features
+
+* where is my train internal settings ([3f23274](https://github.com/ShuhaibNC/morphe-patches/commit/3f232747fb16c014d7839654b2853b02d0b51e63))
+
 ## [1.15.0-dev.4](https://github.com/ShuhaibNC/morphe-patches/compare/v1.15.0-dev.3...v1.15.0-dev.4) (2026-10-20)
 
 ### ✨ New Features
