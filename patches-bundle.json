@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-10-18T17:27:40",
-  "description": "## [1.14.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.14.0...v1.14.1) (2026-10-18)\n\n### 🐛 Bug Fixes\n\n* removed fb lite ([ca978c5](https://github.com/ShuhaibNC/morphe-patches/commit/ca978c561f572e3b0d73b6f8fddce5dcb9f6e06d))\n* worldmap ([83c39ed](https://github.com/ShuhaibNC/morphe-patches/commit/83c39ed9af510254218c03ccb7710b1283808daf))",
-  "download_url": "https://github.com/ShuhaibNC/morphe-patches/releases/download/v1.14.1/patches-1.14.1.mpp",
+  "created_at": "2026-10-25T19:28:51",
+  "description": "## [1.15.0-dev.5](https://github.com/ShuhaibNC/morphe-patches/compare/v1.15.0-dev.4...v1.15.0-dev.5) (2026-10-25)\n\n### 🐛 Bug Fixes\n\n* where is my train accent color ([69bac98](https://github.com/ShuhaibNC/morphe-patches/commit/69bac987069b1269386051fc2a28181b4224f283))\n\n### ✨ New Features\n\n* where is my train internal settings ([3f23274](https://github.com/ShuhaibNC/morphe-patches/commit/3f232747fb16c014d7839654b2853b02d0b51e63))",
+  "download_url": "https://github.com/ShuhaibNC/morphe-patches/releases/download/v1.15.0-dev.5/patches-1.15.0-dev.5.mpp",
   "signature_download_url": "",
-  "version": "1.14.1"
+  "version": "1.15.0-dev.5"
 }
