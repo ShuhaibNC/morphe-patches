@@ -32,7 +32,7 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.15.0-dev.3](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.15.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;27 patches total
+> **[v1.15.0-dev.4](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.15.0-dev.4)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;29 patches total
 <details open>
 <summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -46,6 +46,22 @@ A collection of patches that I think would be useful to add, based on features, 
 |----------|----------------|-----------|
 | [APK Signer Unlock Pro](#apk-signer-unlock-pro) | Unlocks Pro and remove ads from APK Signer. |  |
 | [Disable Forground Services Warning](#disable-forground-services-warning) | Turns off annoying forground service warning at startup |  |
+
+</details>
+
+<details open>
+<summary>📦 Where is my Train&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 7.1.5.974952539 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Amoled Dark](#amoled-dark) | Changes selected night theme colors to pure black. |  |
+| [Change Accent Color](#change-accent-color) | Changes the accent color in the night theme. | • Accent Color |
 
 </details>
 
