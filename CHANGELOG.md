@@ -1,3 +1,10 @@
+## [1.16.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.15.0...v1.16.0-dev.1) (2026-10-28)
+
+### ✨ New Features
+
+* wmt more patches ([ca44892](https://github.com/ShuhaibNC/morphe-patches/commit/ca4489271ddbcd98fb18d0cc91c3063bf010b7fd))
+* wmt patches ([8f2f065](https://github.com/ShuhaibNC/morphe-patches/commit/8f2f065342206bc3e4fea0f7683c15fe57ae99c9))
+
 ## [1.15.0](https://github.com/ShuhaibNC/morphe-patches/compare/v1.14.1...v1.15.0) (2026-10-25)
 
 ### 🐛 Bug Fixes
