@@ -200,9 +200,22 @@ private fun addPatchInfoPreference(document: Document, category: Element) {
             setAttributeNS(ANDROID_NAMESPACE, "android:title", "Patch Info")
             setAttributeNS(ANDROID_NAMESPACE, "android:selectable", "true")
             setAttributeNS(ANDROID_NAMESPACE, "android:key", "patch_info")
-            setAttributeNS(ANDROID_NAMESPACE, "android:summary", "Patched by Shuhaib")
+            setAttributeNS(ANDROID_NAMESPACE, "android:summary", "Patch by Shuhaib's Patches")
             setAttributeNS(APP_NAMESPACE, "app:iconSpaceReserved", "false")
         }
+    val hasTelegramIntent = (0 until preference.childNodes.length).any { index ->
+        val child = preference.childNodes.item(index) as? Element
+        child?.tagName == "intent" &&
+            child.getAttribute("android:action") == "android.intent.action.VIEW" &&
+            child.getAttribute("android:data") == "https://telegram.me/ShuhaibsChat"
+    }
+    if (!hasTelegramIntent) {
+        preference.appendChild(document.createElement("intent").apply {
+            setAttributeNS(ANDROID_NAMESPACE, "android:action", "android.intent.action.VIEW")
+            setAttributeNS(ANDROID_NAMESPACE, "android:data", "https://telegram.me/ShuhaibsChat")
+            setAttributeNS(ANDROID_NAMESPACE, "android:iconSpaceReserved", "false")
+        })
+    }
     category.appendChild(preference)
 }
 
