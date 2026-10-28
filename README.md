@@ -32,25 +32,10 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.15.0-dev.4](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.15.0-dev.4)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;29 patches total
-<details open>
-<summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 7.3.13 | 7.3.14 | 7.4.0 | 7.4.2 |
-| :---: | :---: | :---: | :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [APK Signer Unlock Pro](#apk-signer-unlock-pro) | Unlocks Pro and remove ads from APK Signer. |  |
-| [Disable Forground Services Warning](#disable-forground-services-warning) | Turns off annoying forground service warning at startup |  |
-
-</details>
+> **[v1.15.0](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.15.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;30 patches total
 
 <details open>
-<summary>📦 Where is my Train&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<summary>📦 Where is my Train&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -60,8 +45,10 @@ A collection of patches that I think would be useful to add, based on features, 
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Amoled Dark](#amoled-dark) | Changes selected night theme colors to pure black. |  |
+| [Amoled Dark Theme](#amoled-dark-theme) | Changes selected night theme colors to pure black. |  |
 | [Change Accent Color](#change-accent-color) | Changes the accent color in the night theme. | • Accent Color |
+| [Change Accent Color (Bytecode)](#change-accent-color-bytecode) | Changes the accent color in Where Is My Train bytecode. | • Accent Color |
+| [Enable Internal Settings](#enable-internal-settings) | Shows additional location settings that are normally hidden. |  |
 
 </details>
 
@@ -78,7 +65,7 @@ A collection of patches that I think would be useful to add, based on features, 
 |----------|----------------|-----------|
 | [Amoled Dark Theme](#amoled-dark-theme) | Adds amoled dark graphics to the app. |  |
 | [Remove Unwanted Promotional Icons and Ads](#remove-unwanted-promotional-icons-and-ads) | Removes bloated promotional icons and ads from the home screen. |  |
-| [Unlock World Map Quiz Premium Mode and Disable Ads](#unlock-world-map-quiz-premium-mode-and-disable-ads) | Unlocks Premium mode, map themes, rivers, mountains, deserts, oceanic trenches, oceanic currents, lakes, islands and winds |  |
+| [Unlock Premium](#unlock-premium) | Unlocks Premium mode, map themes, rivers, mountains, deserts, oceanic trenches, oceanic currents, lakes, islands and winds |  |
 
 </details>
 
@@ -95,6 +82,22 @@ A collection of patches that I think would be useful to add, based on features, 
 |----------|----------------|-----------|
 | [Amoled Theme](#amoled-theme) | Replaces the app background graphics. |  |
 | [Remove Ads](#remove-ads) | Removes AdActivities and the internet permission from the manifest and hides ad containers. |  |
+
+</details>
+
+<details open>
+<summary>📦 apk-signer&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 7.3.13 | 7.3.14 | 7.4.0 | 7.4.2 |
+| :---: | :---: | :---: | :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable Forground Services Warning](#disable-forground-services-warning) | Turns off annoying forground service warning at startup |  |
+| [Unlock Pro](#unlock-pro) | Unlocks Pro and remove ads from APK Signer. |  |
 
 </details>
 
@@ -320,14 +323,13 @@ A collection of patches that I think would be useful to add, based on features, 
 </details>
 
 <details open>
-<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
+<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Fake System Time](#fake-system-time) | Replaces System.currentTimeMillis() and System.nanoTime() with a fixed timestamp. |  |
 | [Hide launcher icon](#hide-launcher-icon) | Hides the app's launcher icon. |  |
-| [Hide title/action bar](#hide-title-action-bar) | Removes the title/action bar from every declared style, in every res/values*/styles.xml resource file. |  |
 | [Remove all receivers](#remove-all-receivers) | Removes every <receiver> declaration from AndroidManifest.xml. |  |
 
 </details>
