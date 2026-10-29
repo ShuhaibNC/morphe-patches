@@ -8,7 +8,7 @@ val enableInternalSettingsPatch = resourcePatch(
     name = "Enable Internal Settings",
     description = "Shows additional location settings that are normally hidden."
 ) {
-    compatibleWith(WHEREISMYTRAIN_COMPATIBILITY2)
+    compatibleWith(WHEREISMYTRAIN_COMPATIBILITY)
 
     execute {
         document("res/xml/location_preferences_dev.xml").use { source ->
