@@ -12,7 +12,7 @@ val hideSidebarItemsPatch = resourcePatch(
     name = "Hide Items From Sidebar",
     description = "Hides sharing, rating, reporting, feature request, and language options."
 ) {
-    compatibleWith(WHEREISMYTRAIN_COMPATIBILITY)
+    compatibleWith(WHEREISMYTRAIN_COMPATIBILITY2)
 
     execute {
         val itemIds = setOf(
