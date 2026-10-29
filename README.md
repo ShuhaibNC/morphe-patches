@@ -32,10 +32,10 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.15.0](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.15.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;30 patches total
+> **[v1.16.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.16.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;36 patches total
 
 <details open>
-<summary>📦 Where is my Train&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
+<summary>📦 Where is my Train&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -46,9 +46,15 @@ A collection of patches that I think would be useful to add, based on features, 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Amoled Dark Theme](#amoled-dark-theme) | Changes selected night theme colors to pure black. |  |
-| [Change Accent Color](#change-accent-color) | Changes the accent color in the night theme. | • Accent Color |
-| [Change Accent Color (Bytecode)](#change-accent-color-bytecode) | Changes the accent color in Where Is My Train bytecode. | • Accent Color |
-| [Enable Internal Settings](#enable-internal-settings) | Shows additional location settings that are normally hidden. |  |
+| [Change Accent Color](#change-accent-color) | Changes the accent color throughout the app. | • Accent Color |
+| [Change Accent Color (Bytecode Dependency)](#change-accent-color-bytecode-dependency) | Applies the selected accent color to the app's bytecode. | • Accent Color |
+| [Cloud Tower](#cloud-tower) | Adds the preference to fetch tower information from the internet. |  |
+| [Debug Mode](#debug-mode) | Adds the preference to enable detailed toast messages. |  |
+| [Hide Items From Sidebar](#hide-items-from-sidebar) | Hides sharing, rating, reporting, feature request, and language options. |  |
+| [Mock Tower](#mock-tower) | Adds the preference to simulate being on the tower. |  |
+| [Remember Date Selection](#remember-date-selection) | Adds the preference to remember the selected date. |  |
+| [Show Running Days in Tracking](#show-running-days-in-tracking) | Adds the preference to show running days on the tracking page. |  |
+| [Simulate Cell Tower](#simulate-cell-tower) | Adds the preference to simulate the selected train's cell tower. |  |
 
 </details>
 
