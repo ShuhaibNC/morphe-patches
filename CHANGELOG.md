@@ -1,3 +1,9 @@
+## [1.17.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.16.0...v1.17.0-dev.1) (2026-11-01)
+
+### ✨ New Features
+
+* 1dm pip and bg play bypass ([405a04c](https://github.com/ShuhaibNC/morphe-patches/commit/405a04c41eac0162a299a17519657e55c96857e4))
+
 ## [1.16.0](https://github.com/ShuhaibNC/morphe-patches/compare/v1.15.0...v1.16.0) (2026-10-29)
 
 ### 🐛 Bug Fixes
