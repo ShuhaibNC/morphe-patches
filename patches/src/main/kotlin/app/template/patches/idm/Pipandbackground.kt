@@ -10,7 +10,7 @@ import app.template.patches.shared.clearBody
 
 object pipandbackgroundFingerprint : Fingerprint(
     definingClass = "Li/oj7;",
-    name = "ۦۘ۬",
+    name = "ۦۘ۬ۗ",
     returnType = "Z",
     parameters = listOf("Ljava/lang/String;"),
 )
