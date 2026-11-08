@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-11-08T12:25:44",
-  "description": "## [1.17.1-dev.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.17.0...v1.17.1-dev.1) (2026-11-08)\n\n### 🐛 Bug Fixes\n\n* minor fixes ([0699bfa](https://github.com/ShuhaibNC/morphe-patches/commit/0699bfa916b8ae146606055a5034889b8753043a))",
-  "download_url": "https://github.com/ShuhaibNC/morphe-patches/releases/download/v1.17.1-dev.1/patches-1.17.1-dev.1.mpp",
+  "created_at": "2026-11-08T12:50:58",
+  "description": "## [1.17.1](https://github.com/ShuhaibNC/morphe-patches/compare/v1.17.0...v1.17.1) (2026-11-08)\n\n### 🐛 Bug Fixes\n\n* minor fixes ([0699bfa](https://github.com/ShuhaibNC/morphe-patches/commit/0699bfa916b8ae146606055a5034889b8753043a))",
+  "download_url": "https://github.com/ShuhaibNC/morphe-patches/releases/download/v1.17.1/patches-1.17.1.mpp",
   "signature_download_url": "",
-  "version": "1.17.1-dev.1"
+  "version": "1.17.1"
 }
