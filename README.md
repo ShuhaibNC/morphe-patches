@@ -1,15 +1,16 @@
 # 🐈‍⬛ Shuhaib's Patches
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com)
 [![License](https://img.shields.io/badge/License-GPL_v3-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
-[![GitHub All Releases](https://img.shields.io/github/downloads/shuhaibnc/morphe-patches/total)](https://github.com/mich111discordMightyMichs-Patches/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/shuhaibnc/morphe-patches/total)](https://github.com/shuhaibnc/morphe-patches/releases)
 
-<b>Patches for apps I like.</b>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://www.buymeacoffee.com/shuhaibnc)
+
+<b>Patches for apps you like.</b>
 
 ## Add Patch to Morphe Manager
-
-Click here to add these patches to Morphe:<br><br>
-<a href="https://morphe.software/add-source?github=ShuhaibNC/morphe-patches">
-<img src="button.svg" alt="Add Patch Button" width="120"/></a>
+   <a href="https://morphe.software/add-source?github=ShuhaibNC/morphe-patches">
+     <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe Manager" height="48">
+   </a>
 
 ## Request Patches
 
