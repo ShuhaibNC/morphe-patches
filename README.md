@@ -3,7 +3,9 @@
 [![License](https://img.shields.io/badge/License-GPL_v3-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
 [![GitHub All Releases](https://img.shields.io/github/downloads/shuhaibnc/morphe-patches/total)](https://github.com/shuhaibnc/morphe-patches/releases)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://www.buymeacoffee.com/shuhaibnc)
+<a href="https://www.buymeacoffee.com/shuhaibnc">
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='280' height='44' viewBox='0 0 280 44'%3E%3Crect width='280' height='44' rx='10' fill='%23FFDD00'/%3E%3Cg stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M8 17L11 5Q12 3 14 6L21 13Q27 10 33 13L40 6Q42 3 43 5L46 17Q50 30 39 36Q27 43 15 36Q4 30 8 17Z' fill='%23FFDD00'/%3E%3Cpath d='M20 24Q22 21 24 24M31 24Q33 21 35 24' fill='none'/%3E%3Cpath d='M26 28L29 28L27.5 30Z' fill='%23000'/%3E%3Cpath d='M27.5 30Q25 33 23 31M27.5 30Q30 33 32 31' fill='none'/%3E%3Cpath d='M7 27L16 28M8 32L16 31M39 28L48 27M39 31L47 32' fill='none'/%3E%3C/g%3E%3Ctext x='58' y='27' font-family='Arial,sans-serif' font-size='15' font-weight='bold' fill='%23000'%3EBuy a Fish for My Cat%3C/text%3E%3C/svg%3E" alt="Buy a Fish for My Cat"/>
+</a>
 
 <b>Patches for apps you like.</b>
 
