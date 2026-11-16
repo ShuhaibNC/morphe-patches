@@ -33,7 +33,7 @@ A collection of patches that I think would be useful to add, based on features, 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.18.0-dev.1](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.18.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;32 patches total
+> **[v1.18.0](https://github.com/ShuhaibNC/morphe-patches/releases/tag/v1.18.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;32 patches total
 
 <details open>
 <summary>📦 Where is my Train&nbsp;&nbsp;•&nbsp;&nbsp;5 patches</summary>
